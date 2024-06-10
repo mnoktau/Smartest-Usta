@@ -1,0 +1,2 @@
+# Smartest Usta
+ Makine Zeka
